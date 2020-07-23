@@ -1,0 +1,47 @@
+@font-face{
+    font-family: "quick";
+    src: url(../quicksand/Quicksand-Light.otf);
+    font-style: normal;
+
+}
+.fonthead{
+    font-family: quick;
+    font-size: 55px;
+}
+.skilldeg{
+    font-size: x-large;
+    color: gray;
+}
+.prodeg{
+    font-size: x-large;
+    color:orange;
+}
+.seccolor{
+    background-color: lightskyblue;
+    padding-bottom: 50px;
+}
+.secpadding{
+    margin-top: 50px;
+}
+.txtstyle{
+    font-family:sans-serif;
+}
+.iconcolor{
+    color: red;
+}
+.twiticoncol{
+    color: mediumaquamarine;
+}
+.space{
+    padding-top: 20px;
+}
+.hddif{
+    color: white;
+    font-style: none;
+    list-style: none;
+}
+.ulstyl{
+    list-style: none;
+    display: flex;
+    /* align-items: center; */
+}
